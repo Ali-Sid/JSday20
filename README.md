@@ -1,1 +1,1 @@
-# JSday20
+# JSday20: writing clean code
